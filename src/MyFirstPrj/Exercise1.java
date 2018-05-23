@@ -5,7 +5,7 @@ public class Exercise1 {
 
 	public static void main(String [ ] args) {
 		
-		System.out.println("My name is Dasun");
+		System.out.println("My name is Jayaweera");
 		System.out.println("I am a master student");
 		System.out.println("I will work hard and complete my masters successfully");
 		System.out.println("I will not copy the assignments, exercises or the final mini-project");
